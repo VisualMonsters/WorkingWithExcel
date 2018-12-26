@@ -1,0 +1,28 @@
+C:\Users\chudzip1\AppData\Local\Temporary Projects\WorkingWithExcel\obj\Debug\WorkingWithExcel.vbprojAssemblyReference.cache
+C:\Users\chudzip1\AppData\Local\Temporary Projects\WorkingWithExcel\obj\Debug\WorkingWithExcel.Form1.resources
+C:\Users\chudzip1\AppData\Local\Temporary Projects\WorkingWithExcel\obj\Debug\WorkingWithExcel.Form2.resources
+C:\Users\chudzip1\AppData\Local\Temporary Projects\WorkingWithExcel\obj\Debug\WorkingWithExcel.Resources.resources
+C:\Users\chudzip1\AppData\Local\Temporary Projects\WorkingWithExcel\obj\Debug\WorkingWithExcel.vbproj.GenerateResource.cache
+C:\Users\chudzip1\AppData\Local\Temporary Projects\WorkingWithExcel\obj\Debug\WorkingWithExcel.vbproj.CoreCompileInputs.cache
+C:\Users\chudzip1\AppData\Local\Temporary Projects\WorkingWithExcel\bin\Debug\WorkingWithExcel.exe.config
+C:\Users\chudzip1\AppData\Local\Temporary Projects\WorkingWithExcel\bin\Debug\WorkingWithExcel.exe
+C:\Users\chudzip1\AppData\Local\Temporary Projects\WorkingWithExcel\bin\Debug\WorkingWithExcel.pdb
+C:\Users\chudzip1\AppData\Local\Temporary Projects\WorkingWithExcel\bin\Debug\WorkingWithExcel.xml
+C:\Users\chudzip1\AppData\Local\Temporary Projects\WorkingWithExcel\obj\Debug\WorkingWithExcel.exe
+C:\Users\chudzip1\AppData\Local\Temporary Projects\WorkingWithExcel\obj\Debug\WorkingWithExcel.xml
+C:\Users\chudzip1\AppData\Local\Temporary Projects\WorkingWithExcel\obj\Debug\WorkingWithExcel.pdb
+C:\Users\chudzip1\AppData\Local\Temporary Projects\WorkingWithExcel\obj\Debug\WorkingWithExcel.vbproj.ResolveComReference.cache
+C:\Users\chudzip1\Documents\priv\WorkingWithExcel\WorkingWithExcel\bin\Debug\WorkingWithExcel.exe.config
+C:\Users\chudzip1\Documents\priv\WorkingWithExcel\WorkingWithExcel\bin\Debug\WorkingWithExcel.exe
+C:\Users\chudzip1\Documents\priv\WorkingWithExcel\WorkingWithExcel\bin\Debug\WorkingWithExcel.pdb
+C:\Users\chudzip1\Documents\priv\WorkingWithExcel\WorkingWithExcel\bin\Debug\WorkingWithExcel.xml
+C:\Users\chudzip1\Documents\priv\WorkingWithExcel\WorkingWithExcel\obj\Debug\WorkingWithExcel.vbprojAssemblyReference.cache
+C:\Users\chudzip1\Documents\priv\WorkingWithExcel\WorkingWithExcel\obj\Debug\WorkingWithExcel.vbproj.ResolveComReference.cache
+C:\Users\chudzip1\Documents\priv\WorkingWithExcel\WorkingWithExcel\obj\Debug\WorkingWithExcel.Form1.resources
+C:\Users\chudzip1\Documents\priv\WorkingWithExcel\WorkingWithExcel\obj\Debug\WorkingWithExcel.Form2.resources
+C:\Users\chudzip1\Documents\priv\WorkingWithExcel\WorkingWithExcel\obj\Debug\WorkingWithExcel.Resources.resources
+C:\Users\chudzip1\Documents\priv\WorkingWithExcel\WorkingWithExcel\obj\Debug\WorkingWithExcel.vbproj.GenerateResource.cache
+C:\Users\chudzip1\Documents\priv\WorkingWithExcel\WorkingWithExcel\obj\Debug\WorkingWithExcel.vbproj.CoreCompileInputs.cache
+C:\Users\chudzip1\Documents\priv\WorkingWithExcel\WorkingWithExcel\obj\Debug\WorkingWithExcel.exe
+C:\Users\chudzip1\Documents\priv\WorkingWithExcel\WorkingWithExcel\obj\Debug\WorkingWithExcel.xml
+C:\Users\chudzip1\Documents\priv\WorkingWithExcel\WorkingWithExcel\obj\Debug\WorkingWithExcel.pdb
